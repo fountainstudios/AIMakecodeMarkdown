@@ -8,7 +8,7 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "test.md"
+        "ai_test.md"
     ],
     "testFiles": [
         "test.ts"
