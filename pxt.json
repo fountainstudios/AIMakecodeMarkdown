@@ -7,9 +7,6 @@
         "ai_test.md",
         "README.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
     "supportedTargets": [
         "minecraft"
     ],
