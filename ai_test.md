@@ -7,7 +7,3 @@ CODE CODE CODE
 
 ### ~ tutorialhint 
 CODE CODE CODE
-
-```package
-AIBlocks=github:fountainstudios/CustomBlocks
-```
