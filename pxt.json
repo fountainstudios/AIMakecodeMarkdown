@@ -1,13 +1,14 @@
 {
     "name": "makecodemarkdown",
-    "version": "1.1.4",
     "dependencies": {
-        "core": "*",
-        "builder": "*"
+        "core": "*"
     },
     "files": [
-        "README.md",
-        "ai_test.md"
+        "ai_test.md",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
     ],
     "supportedTargets": [
         "minecraft"
