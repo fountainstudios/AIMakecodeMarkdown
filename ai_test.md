@@ -4,5 +4,5 @@
 CODE CODE CODE
 
 ```package
-AIBlocks=github:fountainstudios/CustomBlocks/AIBlocks
+AIBlocks=github:fountainstudios/CustomBlocks
 ```
