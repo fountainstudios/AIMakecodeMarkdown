@@ -1,4 +1,4 @@
-# MakecodeMarkdown
+# AIMakecodeMarkdown
 Markdown for Minecraft lessons.
 
 
