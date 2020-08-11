@@ -6,5 +6,5 @@
 CODE CODE CODE
 
 ```package
-AIBlocks=github:fountainstudios/CustomBlocks
+AIBlocks=github:fountainstudios/AIMakecodeMarkdown
 ```
