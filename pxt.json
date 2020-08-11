@@ -1,5 +1,5 @@
 {
-    "name": "makecodemarkdown",
+    "name": "aimakecodemarkdown",
     "version": "1.1.4",
     "dependencies": {
         "core": "*",
