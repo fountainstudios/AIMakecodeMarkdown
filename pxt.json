@@ -7,8 +7,7 @@
     },
     "files": [
         "ai_test.md",
-        "README.md",
-        "BlocksAI.ts"
+        "README.md"
     ],
     "targetVersions": {
         "target": "1.5.30",
