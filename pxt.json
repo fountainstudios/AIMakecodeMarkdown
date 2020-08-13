@@ -7,7 +7,8 @@
     },
     "files": [
         "ai_test.md",
-        "README.md"
+        "README.md",
+        "testAI.md"
     ],
     "targetVersions": {
         "target": "1.5.30",

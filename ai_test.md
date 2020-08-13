@@ -5,6 +5,11 @@
 ## Step 1
 CODE CODE CODE
 
+
+```ghost
+Input.videoFeed()
+```
+
 ```package
 AIBlocks=github:fountainstudios/AICustomBlocks
 ```
