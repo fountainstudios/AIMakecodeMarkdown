@@ -6,5 +6,5 @@
 CODE CODE CODE
 
 ```package
-extension=github:fountainstudios/AICustomBlocks
+AIBlocks=github:fountainstudios/AICustomBlocks
 ```
