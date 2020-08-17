@@ -11,5 +11,5 @@ Input.videoFeed()
 ```
 
 ```package
-AIBlocks=github:fountainstudios/AICustomBlocks
+AiBlockTest
 ```
