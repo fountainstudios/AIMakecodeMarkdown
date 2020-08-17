@@ -6,5 +6,5 @@
 CODE CODE CODE
 
 ```package
-AiBlockTest=github:fountainstudios/AIMakecodeMarkdown
+AIBlocks=github:fountainstudios/AIMakecodeMarkdown
 ```

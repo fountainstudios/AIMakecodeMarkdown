@@ -11,5 +11,5 @@ Input.videoFeed()
 ```
 
 ```package
-AiBlockTest=github:fountainstudios/AIMakecodeMarkdown
+AIBlocks=github:fountainstudios/AIMakecodeMarkdown
 ```
