@@ -8,7 +8,8 @@
         "ai_test.md",
         "README.md",
         "testAI.md",
-        "pyImportTest.md"
+        "pyImportTest.md",
+        "AiBlockTest.ts"
     ],
     "targetVersions": {
         "target": "1.5.30",
