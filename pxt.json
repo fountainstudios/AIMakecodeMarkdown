@@ -10,6 +10,7 @@
         "testAI.md",
         "pyImportTest.md"
     ],
+    "public": true,
     "targetVersions": {
         "target": "1.5.30",
         "targetId": "minecraft"
