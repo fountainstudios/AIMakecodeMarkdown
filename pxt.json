@@ -5,14 +5,13 @@
         "core": "*"
     },
     "files": [
-        "ai_test.md",
         "README.md",
         "testAI.md",
         "pyImportTest.md"
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.5.30",
+        "target": "1.5.32",
         "targetId": "minecraft"
     },
     "supportedTargets": [
