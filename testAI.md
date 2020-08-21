@@ -5,6 +5,10 @@
 ## Step 1
 CODE CODE CODE
 
+```template
+AI.compare2(0)
+```
+
 ```ghost
 Input.videoFeed()
 Input.distanceSensor()
