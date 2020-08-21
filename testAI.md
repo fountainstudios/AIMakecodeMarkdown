@@ -18,9 +18,9 @@ Input.weatherSatelite()
 Input.Arialphotos()
 Input.photos()
 
-datasets.dataset3()
-datasets.dataset2()
-datasets.dataset1()
+datasets.historicalDataset()
+datasets.currentDataset()
+datasets.liveDataset()
 datasets.data3()
 datasets.onEvent(datasetType.historical, function() {})
 
