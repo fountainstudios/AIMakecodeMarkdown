@@ -37,5 +37,5 @@ Goals.pollution()
 ```
 
 ```package
-AIBlocks=github:fountainstudios/AICustomBlocks
+aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
