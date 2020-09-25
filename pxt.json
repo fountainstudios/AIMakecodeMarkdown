@@ -7,7 +7,8 @@
     "files": [
         "README.md",
         "testAI.md",
-        "pyImportTest.md"
+        "pyImportTest.md",
+        "_locales/en-GB/testAI.md"
     ],
     "public": true,
     "targetVersions": {
