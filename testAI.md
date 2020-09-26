@@ -3,7 +3,7 @@
 # OCEAN OBSERVATIONS - NICE CORALS
 
 ## Step 1
-CODE CODE CODE
+PLEASE WORK
 
 ```template
 AI.compare2(0)
