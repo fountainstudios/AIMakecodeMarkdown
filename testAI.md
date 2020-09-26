@@ -6,7 +6,7 @@
 PLEASE WORK
 
 ```template
-AI.compare2(0)
+datasets.onEvent(datasetType.historical, function() {})
 ```
 
 ```ghost
