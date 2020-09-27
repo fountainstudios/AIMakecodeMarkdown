@@ -6,7 +6,7 @@
 PLEASE WORK
 
 ```template
-datasets.onEvent(datasetType.historical, function() {})
+AI.analyze()
 ```
 
 ```ghost
