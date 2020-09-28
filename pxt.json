@@ -6,7 +6,10 @@
     },
     "files": [
         "README.md",
-        "testAI.md"
+        "testAI.md",
+        "OceanObservations_ACT1.md",
+        "OceanObservations_ACT2.md",
+        "OceanObservations_ACT3.md"
     ],
     "public": true,
     "targetVersions": {
