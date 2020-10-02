@@ -9,7 +9,8 @@
         "testAI.md",
         "OceanObservations_ACT1.md",
         "OceanObservations_ACT2.md",
-        "OceanObservations_ACT3.md"
+        "OceanObservations_ACT3.md",
+        "MappingTerrain_ACT1.md"
     ],
     "public": true,
     "targetVersions": {
