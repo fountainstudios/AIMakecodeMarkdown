@@ -3,6 +3,7 @@
 ### @explicitHints true
 
 ```template
+player.say("Lets ride!")
 ```
 
 ## Step 1
