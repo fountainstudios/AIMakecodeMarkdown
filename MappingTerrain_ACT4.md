@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 ```template
-player.say("Lets ride!")
+player.say("Lets drive!")
 ```
 
 ## Step 1
