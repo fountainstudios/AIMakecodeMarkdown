@@ -14,7 +14,8 @@
         "MappingTerrain_ACT2.md",
         "MappingTerrain_ACT3.md",
         "MappingTerrain_ACT4.md",
-        "noCodingRequired.md"
+        "noCodingRequired.md",
+        "tutorialDone.md"
     ],
     "public": true,
     "targetVersions": {
