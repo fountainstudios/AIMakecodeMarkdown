@@ -10,7 +10,11 @@
         "OceanObservations_ACT1.md",
         "OceanObservations_ACT2.md",
         "OceanObservations_ACT3.md",
-        "MappingTerrain_ACT1.md"
+        "MappingTerrain_ACT1.md",
+        "MappingTerrain_ACT2.md",
+        "MappingTerrain_ACT3.md",
+        "MappingTerrain_ACT4.md",
+        "noCodingRequired.md"
     ],
     "public": true,
     "targetVersions": {
