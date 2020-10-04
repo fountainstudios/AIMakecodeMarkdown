@@ -13,10 +13,10 @@ AI.placeBlock()
 AI.placeBlock()
 AI.mlOceanObservations(function() {})
 
-Datasets.liveDataset()
-Datasets.currentDataset()
-Datasets.historicalDataset()
-Datasets.datasetGeneral(datasetType.historical, function() {})
+DATASET.liveDataset()
+DATASET.currentDataset()
+DATASET.historicalDataset()
+DATASET.datasetGeneral(datasetType.historical, function() {})
 ```
 
 ```package
