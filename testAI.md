@@ -6,26 +6,17 @@
 PLEASE WORK
 
 ```template
-AI.analyze()
+AI.placeBlockTest()
 ```
 
 ```ghost
-Input.sensor1()
-Input.sensor2()
-Input.sensor3()
-Input.sensor4()
+AI.placeBlockTest()
+AI.mlOceanObservations(function(){})
 
 datasets.liveDataset()
+datasets.currentDataset()
+datasets.historicalDataset()
 datasets.onEvent(datasetType.historical, function() {})
-
-AI.analyze()
-AI.onEvent3(function() {})
-AI.compare2(0)
-
-Goals.reach1()
-Goals.reach2()
-Goals.reach3()
-Goals.reach4()
 ```
 
 ```package
