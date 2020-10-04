@@ -20,5 +20,5 @@ Datasets.datasetGeneral(datasetType.historical, function() {})
 ```
 
 ```package
-aicustomblocks=github:fountainstudios/AICustomBlocks.ts
+aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
