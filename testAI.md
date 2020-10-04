@@ -6,17 +6,17 @@
 PLEASE WORK
 
 ```template
-AI.placeBlockTest()
+AI.placeBlock()
 ```
 
 ```ghost
-AI.placeBlockTest()
+AI.placeBlock()
 AI.mlOceanObservations(function(){})
 
-datasets.liveDataset()
-datasets.currentDataset()
-datasets.historicalDataset()
-datasets.onEvent(datasetType.historical, function() {})
+Datasets.liveDataset()
+Datasets.currentDataset()
+Datasets.historicalDataset()
+Datasets.onEvent(datasetType.historical, function() {})
 ```
 
 ```package
