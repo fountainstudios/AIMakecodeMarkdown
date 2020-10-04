@@ -11,7 +11,7 @@ AI.placeBlock()
 
 ```ghost
 AI.placeBlock()
-AI.mlOceanObservations(function() {})
+AI.mlMappingTerrain(function() {})
 
 DATASET.liveDataset()
 DATASET.currentDataset()
