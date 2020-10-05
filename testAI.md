@@ -3,10 +3,7 @@
 # Test - Test
 
 ## Step 1
-Test V1
-
-```template
-```
+Test V2
 
 ```package
 aicustomblocks=github:fountainstudios/AICustomBlocks
