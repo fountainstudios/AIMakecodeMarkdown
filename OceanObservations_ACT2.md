@@ -20,9 +20,6 @@ Input.sensor1()
 Input.sensor2()
 Input.sensor3()
 Input.sensor4()
-
-datasets.liveDataset()
-datasets.onEvent(datasetType.historical, function() {})
 ```
 
 ```package

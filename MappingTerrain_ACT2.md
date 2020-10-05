@@ -16,7 +16,7 @@ Input.location1PictureData()
 Input.location2PictureData()
 Input.location3PictureData()
 Input.location4PictureData()
-datasets.onevent()
+Datasets.setOfdata(function() {})
 ```
 
 ```package

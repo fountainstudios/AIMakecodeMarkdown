@@ -19,7 +19,7 @@ As we have now imported and analyzed our data the algorithm should have a result
 AI.inputMappingTerrain()
 AI.analyzeMappingTerrain()
 AI.placeMarkersMappingTerrain()
-AI.mlMappingTerrain(function(){})
+AI.mlMappingTerrain(function() {})
 ```
 
 ```package
