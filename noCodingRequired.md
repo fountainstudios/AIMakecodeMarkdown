@@ -1,7 +1,9 @@
 ### @hideIteration true 
 
-```blocks
+```python
+player.say
 ```
+
 ## Introduction @unplugged
 No coding is required. Please go back to the map.
 
