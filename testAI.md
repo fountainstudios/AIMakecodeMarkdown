@@ -10,6 +10,8 @@ Input.sensor1()
 
 Datasets.test()
 
+Datasets.setOfdata(function() {})
+
 AI.placeBlock()
 
 AI.mlMappingTerrain(function() {})
