@@ -8,8 +8,6 @@ Test V3
 ```ghost
 Input.sensor2()
 
-Datasets.liveDataset()
-
 Datasets.test()
 
 AI.placeBlock()
