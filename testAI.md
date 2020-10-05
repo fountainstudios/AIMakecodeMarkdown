@@ -8,7 +8,7 @@ Test V3
 ```ghost
 Input.sensor2()
 
-Input.liveDataset()
+Datasets.liveDataset()
 
 Datasets.test()
 
