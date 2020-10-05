@@ -1,6 +1,9 @@
+### @hideIteration true 
 
-```template
+```blocks
 ```
-# No coding is required for this activity. 
-## Step 1
-No coding is required for this activity. Please get back to the map.
+## Introduction @unplugged
+No coding is required. Please go back to the map.
+
+## Step 1 
+No coding is required. Please go back to the map.
