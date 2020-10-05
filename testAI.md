@@ -6,11 +6,9 @@
 Test V3
 
 ```ghost
-Input.sensor2()
+Input.sensor1()
 
 Datasets.test()
-
-Datasets.dataset(datasetType.historical, function() {})
 
 AI.placeBlock()
 
