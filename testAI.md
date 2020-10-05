@@ -6,11 +6,9 @@
 Test V3
 
 ```ghost
-Input.sensor1()
+Input.sensor2()
 
 Input.liveDataset()
-
-Datasets.test()
 
 AI.placeBlock()
 
