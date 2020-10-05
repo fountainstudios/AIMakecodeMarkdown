@@ -1,25 +1,28 @@
-# Activity 2 – The goal at hand.
+# Activity 2 – Underwater data.
 
 ### @explicitHints true
 
 ```template
-player.say("Combine those data streams!")
+player.say("")
 ```
 
 ## Step 1
-While  you are in the main area of the research ship, where all the computers are. Write a piece of code that combines the different data streams from the sensors into **one** live dataset.
+Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the different sensors.
+Once that is done we should be able to see what is going on beneath the surface on the four monitors. 
 
 ## Step 2 
-First use a `||datasets: dataset||` coding block, from the `||datasets: DATASETS||` tab on the left side. Set that block to be a `||datasets: live||` dataset. 
+First use a `||Datasets: dataset||` coding block, from the `||Datasets: DATASETS||` tab on the left side.
+Set that block to be a `||Datasets: live||` dataset.
 
 ## Step 3
-Place the different sensor `||input: inputs||` from the `||INPUT: INPUT||` tab on the left-hand side. 
+Place the different sensor `||Input: inputs||`, from the `||Input: INPUT||` tab on the left-hand side, inside of the dataset.
 
 ```ghost
 Input.sensor1()
 Input.sensor2()
 Input.sensor3()
 Input.sensor4()
+Datasets.setOfData_OO(datasetType.historical, function() {})
 ```
 
 ```package
