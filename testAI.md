@@ -10,6 +10,8 @@ Input.sensor2()
 
 Datasets.test()
 
+Datasets.dataset(datasetType.historical, function() {})
+
 AI.placeBlock()
 
 AI.mlMappingTerrain(function() {})
