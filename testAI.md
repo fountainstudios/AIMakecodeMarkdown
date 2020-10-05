@@ -1,9 +1,9 @@
 ### @explicitHints 1
 
-# Test - Test
+# Test - V5
 
 ## Step 1
-Test V5
+Test
 
 ```ghost
 Input.sensor1()
