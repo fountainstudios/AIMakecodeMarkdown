@@ -9,16 +9,6 @@ Test Test
 AI.placeBlock()
 ```
 
-```ghost
-AI.placeBlock()
-AI.mlMappingTerrain(function() {})
-
-DATASET.liveDataset()
-DATASET.currentDataset()
-DATASET.historicalDataset()
-DATASET.datasetGeneral(datasetType.historical, function() {})
-```
-
 ```package
 aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
