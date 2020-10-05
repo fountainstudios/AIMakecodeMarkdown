@@ -6,7 +6,6 @@
 Test Test 
 
 ```template
-AI.placeBlock()
 ```
 
 ```package
