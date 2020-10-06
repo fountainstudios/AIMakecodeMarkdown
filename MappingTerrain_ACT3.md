@@ -16,10 +16,10 @@ As we have now imported and analyzed our data the algorithm should have a result
 
 
 ```ghost
-AI.inputMappingTerrain()
-AI.analyzeMappingTerrain()
-AI.placeMarkersMappingTerrain()
-AI.mlMappingTerrain(function() {})
+AI.input_MT()
+AI.analyze_MT()
+AI.placeMarkers_MT()
+AI.ml_MT(function() {})
 ```
 
 ```package

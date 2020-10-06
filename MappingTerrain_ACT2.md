@@ -12,10 +12,10 @@ Place **all** of the data taken from the **three** locations inside of the `||da
 
 
 ```ghost
-Input.location1PictureData()
-Input.location2PictureData()
-Input.location3PictureData()
-Datasets.setOfdata_MT(function() {})
+Input.location1PictureData_MT()
+Input.location2PictureData_MT()
+Input.location3PictureData_MT()
+Datasets.setOfData_MT(function() {})
 ```
 
 ```package
