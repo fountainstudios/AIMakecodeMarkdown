@@ -7,13 +7,13 @@ player.say("")
 ``` 
 
 ## Step 1
-Now that we have a steady data stream comming in, the research about the impact of climate change on these reefs will go alot quicker. However, in 
-the event that a sensor fails we dont want to dive into the water each time. That is why, with the use of AI, we can make the Agent get to the sensors 
-and repair them. This is possible using **autonomous navigation** and the data that we are are already collecting.
+Now that we have a steady data stream coming in, the research about the impact of climate change on these reefs will go a lot quicker. However, in 
+the event that a sensor fails we don't want to dive into the water each time. That is why, with the use of AI, we can make the Agent get to the sensors and 
+and repair them. This is possible using **autonomous navigation** and the data that we are already collecting.
 
 ## Step 2 
 Use a `||AI: machine learning||` coding block from the `||AI: AI||` tab on the left-hand side. 
-Inside of this block place a `||AI: input||` coding block. Then, inside of that place a `||datasets: live dataset||` coding block.
+Inside of this block, place a `||AI: input||` coding block. Then, inside of that place a `||datasets: live dataset||` coding block.
 After which, place a `||AI: analyze terrain data||` coding block. 
 
 ## Step 3
