@@ -18,10 +18,10 @@ Set that block to be a `||Datasets: live||` dataset.
 Place the different sensor `||Input: inputs||`, from the `||Input: INPUT||` tab on the left-hand side, inside of the dataset.
 
 ```ghost
-Input.sensor1()
-Input.sensor2()
-Input.sensor3()
-Input.sensor4()
+Input.sensor1_OO()
+Input.sensor2_OO()
+Input.sensor3_OO()
+Input.sensor4_OO()
 Datasets.setOfData_OO(datasetType.historical, function() {})
 ```
 
