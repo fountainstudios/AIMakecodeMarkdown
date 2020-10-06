@@ -15,7 +15,7 @@ Place **all** of the data taken from the **three** locations inside of the `||da
 Input.location1PictureData()
 Input.location2PictureData()
 Input.location3PictureData()
-Datasets.setOfdata(function() {})
+Datasets.setOfdata_MT(function() {})
 ```
 
 ```package
