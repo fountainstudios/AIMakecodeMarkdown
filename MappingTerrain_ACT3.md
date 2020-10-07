@@ -1,7 +1,5 @@
-### @codeStart players set @s makecode 0
 ### @explicitHints true
 ### @flyoutOnly 1
-### @codeStop players set @s makecode 1
 
 # Activity 3 – Detecting Anomalies.
 
