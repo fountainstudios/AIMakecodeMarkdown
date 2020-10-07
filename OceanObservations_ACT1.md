@@ -2,6 +2,7 @@
 
 ### @explicitHints true
 ### @hideIteration true 
+### @flyoutOnly 1
 
 ```python
 player.say

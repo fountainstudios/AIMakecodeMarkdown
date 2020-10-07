@@ -2,11 +2,10 @@
 
 ### @explicitHints true
 ### @hideIteration true 
-
+### @flyoutOnly 1
 ```python
 player.say
 ```
-
 ## Step 1
 Data needs to be gathered about the forest, by taking pictures.
 Whilst flying over the forest use your camera, that's in your hotbar, to take pictures of the terrain. 

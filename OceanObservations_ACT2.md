@@ -1,21 +1,18 @@
 # Activity 2 – Underwater data.
 
 ### @explicitHints true
-
-```template
-player.say("")
-```
+### @flyoutOnly 1
 
 ## Step 1
 Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the different sensors.
-Once that is done we should be able to see what is going on beneath the surface on the four monitors. 
+Once this is done we will be able to see what is going on beneath the surface of the water, on the four monitors. 
 
 ## Step 2 
-First use a `||Datasets: dataset||` coding block, from the `||Datasets: DATASETS||` tab on the left side.
+First use a `||Datasets: make dataset||` coding block, from the toolbox, inside of a `||loops: on start||` coding block.
 Set that block to be a `||Datasets: live||` dataset.
 
 ## Step 3
-Place the different sensor `||Input: inputs||`, from the `||Input: INPUT||` tab on the left-hand side, inside of the dataset.
+Then place the `||Input: sensor data||`, inside of the dataset.
 
 ```ghost
 Input.sensor1_OO()
