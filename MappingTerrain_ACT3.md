@@ -4,20 +4,21 @@
 
 
 ## Step 1
-In this activity, you will have to use the dataset that you made inside of a machine learning algorithm. That algorithm will then have to look for anomalies and outline them. Start by using an `||AI: machine learning||` coding block.
+In this Activity, you have to use the dataset that you made, inside a machine learning algorithm. The algorithm needs to search for anomalies in the dataset
+and outline them on the map. First use an `||AI: machine learning||` coding block inside of the `||loops: start||` coding block.
 
 ## Step 2
-Inside of that, place an `||AI: input dataset||` coding block. After which follow that up by placing an `||AI: analyze data||` coding block.
+Inside of that, place an `||Datasets: input dataset||` coding block. Then place an `||AI: analyze data||` coding block.
 
 ## Step 3
-As we have now imported and analyzed our data the algorithm should have a result. However, so that we can see the result on the map place an 
-`||AI: place markers||` coding block.
+We have now imported and analyzed the data, the algorithm should have a result. However, so that we can see the result on the map place an 
+`||OUTPUT: show locations||` coding block.
 
 
 ```ghost
-AI.input_MT()
+Datasets.input_MT()
 AI.analyze_MT()
-AI.placeMarkers_MT()
+Output.showLocations_MT()
 AI.ml_MT(function() {})
 ```
 

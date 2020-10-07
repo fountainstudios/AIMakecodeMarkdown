@@ -7,4 +7,5 @@ player.say("Lets drive!")
 ```
 
 ## Step 1
-In this activity, you will have to go to the different sites that the AI found on the map and close them down. You will be using banners to signify that nobody can go into these areas. **No coding is required for this activity.** 
+In this Activity, you need to go to the different locations that the AI found and close them down. 
+You need to use banners to signify that the areas are closed and nobody can access them. **No coding is required for this Activity.** 

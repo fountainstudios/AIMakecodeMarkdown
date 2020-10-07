@@ -3,12 +3,12 @@
 ### @explicitHints true
 
 ## Step 1
-In this activity, you will have to combine all of the pictures you have taken into **one** large dataset. All of that data will then be represented on 
-the board as a large map of the forest. Start by using a `||datasets: dataset||` coding block. 
+In this Activity, you have to combine all of the pictures you have taken into **one** large `||datasets: dataset||`. All of this data will then be compiled and
+shown as a large map of the forest. First use a `||datasets: make dataset||` coding block inside of the `||loops: start||` coding block. 
 
 ## Step 2
-Place **all** of the data taken from the **three** locations inside of the `||datasets: dataset||` coding block. The differnt data is located in the 
-`||input: INPUT||` tab on the left side. 
+Place **all** of the data taken from the **three** locations inside the `||datasets: dataset||` coding block. The data is located in the 
+`||input: INPUT||` tab. 
 
 
 ```ghost
