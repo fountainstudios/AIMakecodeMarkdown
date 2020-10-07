@@ -26,7 +26,6 @@ AI.analyze_OO()
 AI.ml_OO(function() {})
 AI.input_OO()
 AI.genRoutes_OO()
-player.on_chat_command()
 ```
 
 ```template
