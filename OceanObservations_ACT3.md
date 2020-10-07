@@ -27,11 +27,9 @@ AI.ml_OO(function() {})
 AI.input_OO()
 AI.genRoutes_OO()
 ```
-
 ```template
-`
+loops.onStart(function(){})
 ```
-
 ```package
 aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
