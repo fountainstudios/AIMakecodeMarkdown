@@ -2,8 +2,8 @@
 
 ### @explicitHints true
 
-```template
-player.say("Lets dive!")
+```python
+player.say
 ```
 
 ## Step 1
