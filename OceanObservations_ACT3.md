@@ -1,10 +1,8 @@
 # Activity 3 – Future proofing.
 
 ### @explicitHints true
+### @flyoutOnly 0
 
-```template
-player.say("")
-``` 
 
 ## Step 1
 Now that we have a steady data stream coming in, the research about the impact of climate change on these reefs will go a lot quicker. However, in 
@@ -28,6 +26,11 @@ AI.analyze_OO()
 AI.ml_OO(function() {})
 AI.input_OO()
 AI.genRoutes_OO()
+player.on_chat_command()
+```
+
+```template
+`
 ```
 
 ```package
