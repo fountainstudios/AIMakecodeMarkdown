@@ -21,7 +21,7 @@ Then place a `||AI: generate routes||` coding block. Now, when run, the AI will 
 We will also be able to see the terrain on the Map. 
 
 ```ghost
-Datasets.historicalData()
+Datasets.liveData()
 Datasets.setOfData_OO(datasetType.historical, function() {})
 
 AI.analyze_OO()
