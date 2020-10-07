@@ -12,7 +12,7 @@ Inside of that, place an `||Datasets: input dataset||` coding block. Then place 
 
 ## Step 3
 We have now imported and analyzed the data, the algorithm should have a result. However, so that we can see the result on the map place an 
-`||OUTPUT: show locations||` coding block.
+`||Output: show locations||` coding block.
 
 
 ```ghost
