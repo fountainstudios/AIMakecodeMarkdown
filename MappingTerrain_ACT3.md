@@ -1,10 +1,7 @@
-# Activity 3 – Detecting Anomalies.
-
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
-
 ### @explicitHints true
 ### @flyoutOnly 1
+
+# Activity 3 – Detecting Anomalies.
 
 ## Step 1
 In this Activity, you have to use the dataset that you made, inside a machine learning algorithm. The algorithm needs to search for anomalies in the dataset

@@ -1,10 +1,7 @@
-# Activity 2 – Mapping everything out.
-
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
-
 ### @explicitHints true
-### @flyoutOnly 0
+### @flyoutOnly 1
+
+# Activity 2 – Mapping everything out.
 
 ## Step 1
 In this Activity, you have to combine all of the pictures you have taken into **one** large `||datasets: dataset||`. All of this data will then be compiled and
