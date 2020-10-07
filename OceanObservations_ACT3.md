@@ -22,6 +22,7 @@ We will also be able to see the terrain on the Map.
 
 ```ghost
 Datasets.liveData()
+Datasets.setOfData_OO(datasetType.historical, function() {})
 
 AI.analyze_OO()
 AI.ml_OO(function() {})
