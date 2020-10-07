@@ -7,7 +7,7 @@ In this Activity, you have to combine all of the pictures you have taken into **
 shown as a large map of the forest. First use a `||datasets: make dataset||` coding block inside of the `||loops: start||` coding block. 
 
 ## Step 2
-Place **all** of the data taken from the **three** locations inside the `||datasets: dataset||` coding block. The data is located in the 
+Place **all** of the data taken from the **three** locations inside the `||datasets: make dataset||` coding block. The data is located in the 
 `||input: INPUT||` tab. 
 
 

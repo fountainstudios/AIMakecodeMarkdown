@@ -1,6 +1,7 @@
 # Activity 3 – Testing it out.
 
 ### @explicitHints true
+### @hideIteration true 
 
 ```template
 player.say("")

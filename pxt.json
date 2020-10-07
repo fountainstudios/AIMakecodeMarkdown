@@ -15,7 +15,8 @@
         "MappingTerrain_ACT4.md",
         "noCodingRequired.md",
         "tutorialDone.md",
-        "OceanObservations_ACT4.md"
+        "OceanObservations_ACT4.md",
+        "_locales/en-GB/OceanObservations_ACT1.md"
     ],
     "public": true,
     "targetVersions": {

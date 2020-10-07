@@ -1,6 +1,7 @@
 # Activity 4 – A Wild Ride.
 
 ### @explicitHints true
+### @hideIteration true 
 
 ```python
 player.say
