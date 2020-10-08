@@ -15,7 +15,8 @@
         "MappingTerrain_ACT4.md",
         "noCodingRequired.md",
         "tutorialDone.md",
-        "OceanObservations_ACT4.md"
+        "OceanObservations_ACT4.md",
+        "AgentTest.md"
     ],
     "public": true,
     "targetVersions": {
