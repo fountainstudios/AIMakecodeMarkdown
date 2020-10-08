@@ -1,6 +1,3 @@
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
-
 ### @explicitHints true
 ### @hideIteration true 
 
