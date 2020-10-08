@@ -4,7 +4,7 @@
 #Testing it out.
 
 ## Step 1
-Agent moves test V1
+Agent moves test V2
 
 ```ghost
 Test.testMoves()
