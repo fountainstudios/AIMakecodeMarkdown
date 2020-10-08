@@ -7,7 +7,7 @@
 #Testing it out.
 
 ## Step 1
-Agent moves test !With codestart/stop difined! 
+Agent moves test !With codestart/stop defined! 
 
 ```ghost
 Test.testMoves()
