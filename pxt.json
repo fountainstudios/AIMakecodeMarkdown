@@ -17,7 +17,9 @@
         "tutorialDone.md",
         "OceanObservations_ACT4.md",
         "AgentTest.md",
-        "AgentTest2.md"
+        "AgentTest2.md",
+        "MappingTerrain_ACT2B.md",
+        "MappingTerrain_ACT3B.md"
     ],
     "public": true,
     "targetVersions": {
