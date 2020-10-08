@@ -1,7 +1,7 @@
 # Activity 2 – Underwater data.
 
 ### @explicitHints true
-### @flyoutOnly 1
+### @flyoutOnly 0
 
 ## Step 1
 Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the different sensors.

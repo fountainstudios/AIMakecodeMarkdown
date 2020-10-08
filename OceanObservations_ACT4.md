@@ -2,7 +2,7 @@
 
 ### @explicitHints true
 ### @hideIteration true 
-### @flyoutOnly 1
+### @flyoutOnly 0
 
 ## Step 1
 We need to see if the **autonomous navigation** that we wrote for the Agent works. To do that, add to the end of the code that the Agent should reach

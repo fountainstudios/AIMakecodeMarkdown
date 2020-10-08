@@ -1,7 +1,7 @@
 # Activity 3 – Future proofing.
 
 ### @explicitHints true
-### @flyoutOnly 1
+### @flyoutOnly 0
 
 ## Step 1
 Now that we have a steady data stream coming in, the research about the impact of climate change on these reefs will go a lot quicker. However, in 
