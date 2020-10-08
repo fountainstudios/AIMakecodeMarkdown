@@ -16,7 +16,8 @@
         "noCodingRequired.md",
         "tutorialDone.md",
         "OceanObservations_ACT4.md",
-        "AgentTest.md"
+        "AgentTest.md",
+        "AgentTest2.md"
     ],
     "public": true,
     "targetVersions": {
