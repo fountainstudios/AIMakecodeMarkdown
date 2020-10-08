@@ -19,7 +19,7 @@ We will also be able to see the terrain on the Map.
 
 
 ```ghost
-Datasets.liveData()
+Datasets.liveData(number)
 
 AI.analyze_OO()
 AI.ml_OO(function() {})
