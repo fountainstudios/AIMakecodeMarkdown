@@ -18,4 +18,4 @@ Test.testLoop(function() {})
 aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
 
-### set makecode 1
+### @set makecode 1

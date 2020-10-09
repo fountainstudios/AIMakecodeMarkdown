@@ -17,8 +17,6 @@
 
 Drag the ``||hourOfCode:alert team||`` block inside the ``||hourOfCode:if hazard found||`` block, so that the team can be alerted.
 
-
-
 ```ghost
 hourOfCode.alertTeam()
 ```
