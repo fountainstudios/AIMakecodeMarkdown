@@ -17,3 +17,5 @@ Test.testLoop(function() {})
 ```package
 aicustomblocks=github:fountainstudios/AICustomBlocks
 ```
+
+### set makecode 1
