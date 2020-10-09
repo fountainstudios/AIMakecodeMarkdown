@@ -19,7 +19,8 @@
         "AgentTest.md",
         "AgentTest2.md",
         "MappingTerrain_ACT2B.md",
-        "MappingTerrain_ACT3B.md"
+        "MappingTerrain_ACT3B.md",
+        "Test.md"
     ],
     "public": true,
     "targetVersions": {
