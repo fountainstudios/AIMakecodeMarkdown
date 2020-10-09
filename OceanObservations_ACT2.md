@@ -1,7 +1,10 @@
-# Activity 2 – Underwater data.
+### @codeStart players set @s makecode 0
+### @codeStop players set @s makecode 1
 
 ### @explicitHints true
 ### @flyoutOnly 0
+
+# Activity 2 – Underwater data.
 
 ## Step 1
 Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the different sensors.

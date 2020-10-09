@@ -1,8 +1,11 @@
-# Activity 3 – Testing it out.
+### @codeStart players set @s makecode 0
+### @codeStop players set @s makecode 1
 
 ### @explicitHints true
-### @hideIteration true 
 ### @flyoutOnly 0
+### @hideIteration true 
+
+# Activity 3 – Testing it out.
 
 ## Step 1
 We need to see if the **autonomous navigation** that we wrote for the Agent works. To do that, add to the end of the code that the Agent should reach

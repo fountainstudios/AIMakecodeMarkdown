@@ -1,7 +1,10 @@
-# Activity 3 – Future proofing.
+### @codeStart players set @s makecode 0
+### @codeStop players set @s makecode 1
 
 ### @explicitHints true
 ### @flyoutOnly 0
+
+# Activity 3 – Future proofing.
 
 ## Step 1
 Now that we have a steady data stream coming in, the research about the impact of climate change on these reefs will go a lot quicker. However, in 
@@ -21,7 +24,7 @@ We will also be able to see the terrain on the Map.
 ```ghost
 AI.analyze_OO()
 AI.ml_OO(function() {})
-AI.input_OO()
+Datasets.input_OO()
 AI.genRoutes_OO()
 Datasets.liveData()
 Datasets.historicalData()
