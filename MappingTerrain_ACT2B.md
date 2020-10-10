@@ -2,11 +2,11 @@
 ### @codeStop players set @s makecode 1
 
 ```template
-// onStart block only
+//onStart block only
 ```
 
 ### @explicitHints true
-### @flyoutOnly 1
+### @flyoutOnly 0
 
 # Activity 2 – Mapping everything out.
 
