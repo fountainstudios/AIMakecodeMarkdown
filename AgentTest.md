@@ -1,21 +1,11 @@
+Here is the example of the markdown for only on start block to appear: 
 ### @codeStart players set @s makecode 0
 ### @codeStop players set @s makecode 1
-
-### @explicitHints true
+```template
+// onStart block only
+```
+### @flyoutOnly 1
 ### @hideIteration true 
-
-#Testing it out.
-
-## Step 1
-Agent moves test !With codestart/stop defined! 
-
-```ghost
-Test.testMoves()
-Test.testLoop(function() {})
-```
-
-```package
-aicustomblocks=github:fountainstudios/AICustomBlocks
-```
-
-### @set makecode 1
+### @explicitHints 1
+# 5. Eliminate All Hazards.
+## Introduction step @unplugged
