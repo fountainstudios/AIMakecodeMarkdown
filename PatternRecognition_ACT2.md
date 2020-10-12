@@ -13,8 +13,15 @@
 ## Step 1
 Now that we have collected alot of photographic data with different coat patterns, from a few different ocelots, we can make a dataset. 
  
-```ghost
+## Step 2 
+Start by using a `||Datasets: make dataset||` coding block, set to `||Datasets: historical||`. Inside of that place 
 
+```ghost
+Input.trap1_PR()
+Input.trap2_PR()
+Input.trap3_PR()
+Datasets.extractPatterns_PR()
+Datasets.setOfData_PR(datasetType.historical, function() {})
 ```
 
 ```package
