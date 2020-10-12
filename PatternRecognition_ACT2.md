@@ -19,7 +19,7 @@ Start by using a `||Datasets: make dataset||` coding block, set to `||Datasets: 
 
 ## Step 3 
 As a last step we need to extract the patterns on the ocelots coats from the photographic data. Use a `||Datasets: extract patterns||` coding block.
-
+Now when you run the code previews of the ocelots patterns will be compiled. 
 ```ghost
 Input.trap1_PR()
 Input.trap2_PR()
