@@ -9,7 +9,7 @@ player.say
 ```
 
 ## Step 1
-We are at sea, right next to a coral reef. The reason for that is to observe and research the impact of climate change on the corals. 
+Hey! I am glad you are here. We are at sea, right next to a coral reef. The reason for that is to observe and research the impact of climate change on the corals. 
 To do that we need to place some sensors in the reef, which means we need somebody to dive down into the water. 
 Take the sensors from the chest on the deck of the boat. Then dive into the water and place the sensors in the **four** spots on the ocean floor marked 
 with a **red banner** above the surface of the water, and with **lamps** on the sea floor. 

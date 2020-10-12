@@ -6,7 +6,7 @@
 ```
 
 ### @explicitHints true
-### @flyoutOnly 0
+### @flyoutOnly 1
 ### @hideIteration true 
 
 # Activity 3 – Testing it out.

@@ -1,6 +1,6 @@
-Here is the example of the markdown for only on start block to appear: 
 ### @codeStart players set @s makecode 0
 ### @codeStop players set @s makecode 1
+
 ```template
 // onStart block only
 ```

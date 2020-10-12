@@ -6,7 +6,7 @@
 ```
 
 ### @explicitHints true
-### @flyoutOnly 0
+### @flyoutOnly 1
 
 # Activity 2 – Underwater data.
 

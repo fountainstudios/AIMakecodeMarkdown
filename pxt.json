@@ -20,7 +20,11 @@
         "AgentTest2.md",
         "MappingTerrain_ACT2B.md",
         "MappingTerrain_ACT3B.md",
-        "Test.md"
+        "Test.md",
+        "PatternRecognition_ACT1.md",
+        "PatternRecognition_ACT2.md",
+        "PatternRecognition_ACT3.md",
+        "PatternRecognition_ACT4.md"
     ],
     "public": true,
     "targetVersions": {

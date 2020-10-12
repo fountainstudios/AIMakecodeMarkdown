@@ -2,7 +2,7 @@
 ### @codeStop players set @s makecode 1
 
 ```template
-//onStart block only
+// onStart block only
 ```
 
 ### @explicitHints true
