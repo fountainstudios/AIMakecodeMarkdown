@@ -30,8 +30,6 @@ AI.analyze_OO()
 AI.ml_OO(function() {})
 Datasets.input_OO()
 AI.genRoutes_OO()
-Datasets.liveData()
-Datasets.historicalData()
 ```
 
 ```package
