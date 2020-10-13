@@ -29,7 +29,6 @@ Datasets.input_PR()
 AI.ml_PR(function(){})
 AI.analyze_PR()
 Output.locateOcelots_PR()
-Output.genRoutes_PR()
 ```
 
 ```package
