@@ -19,7 +19,7 @@ way to the two sensors. You can put on a virtual headset using the button, this 
 be able to see where the Agent is going a lot easier. 
 
 ```ghost
-AI.ml_OO1()
+AI.ml_OO2()
 Output.reach1_OO()
 Output.reach2_OO()
 Output.reach3_OO()
