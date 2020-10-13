@@ -6,7 +6,7 @@
 ```
 
 ### @explicitHints true
-### @flyoutOnly 1
+### @flyoutOnly 0
 
 # Activity 3 – Paterns, paterns, paterns...
 
