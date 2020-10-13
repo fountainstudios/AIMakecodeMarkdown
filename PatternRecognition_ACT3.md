@@ -20,8 +20,7 @@ First use a `||AI: semi-supervised machine learning||` coding block and place a 
 After that, place a `||Datasets: compare datasets||` coding block. Set to **historical** dataset and then **current**.
 
 ## Step 3
-Then place a `||Datasets: analyze pattern data||` coding block. Followed by an `||Output: locate ocelots||` coding block, and `||Output: generate migration routes||`
-coding block. Now when you run the code a map of the ocelots locations will appear.
+Then place a `||Datasets: analyze pattern data||` coding block. Followed by an `||Output: locate ocelots||` coding block. Now when you run the code a map of the ocelots locations will appear.
 
 ```ghost
 Datasets.compare_PR()
