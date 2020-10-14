@@ -8,7 +8,7 @@
 ### @explicitHints true
 ### @flyoutOnly 0
 
-# Activity 3 – Paterns, paterns, paterns...
+# Activity 2 – Paterns, paterns, paterns...
 
 ## Step 1
 Now that we have collected alot of photographic data with different coat patterns, from a few different ocelots, we can make a dataset. 
