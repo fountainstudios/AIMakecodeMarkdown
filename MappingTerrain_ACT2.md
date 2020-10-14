@@ -9,7 +9,7 @@ shown as a large map of the forest. First use a `||datasets: make dataset||` cod
 
 ## Step 2
 Place **all** of the data taken from the **three** locations inside the `||datasets: make dataset||` coding block. The `||Input: picture data||` 
-is located in the toolbox. 
+coding blocks are located in the in the `||Input: INPUT||` tab. 
 
 ```ghost
 Input.location1PictureData_MT()
