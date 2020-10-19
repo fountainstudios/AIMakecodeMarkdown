@@ -16,8 +16,8 @@ the event that a sensor fails we want to use AI to make the reach the sensors an
 This is possible using **autonomous navigation** with the live data that we are collecting.
 
 ## Step 2 
-Use a `||AI: machine learning||` coding block inside of a `||loops: on start||` coding block.
-Inside of this block, place a `||Datasets: input||` coding block, set to `||datasets: live dataset||`.
+Use a `||AI: machine learning||` coding block inside of an `||loops: on start||` coding block.
+Inside of this block, place a `||Datasets: input dataset||` coding block, set to `||datasets: live dataset||`.
 After which, place a `||AI: analyze terrain data||` coding block. 
 
 ## Step 3

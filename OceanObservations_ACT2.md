@@ -15,7 +15,7 @@ Now that the sensors have been placed we need to make **one** live dataset that 
 Once this is done we will be able to see, and map, what is going on beneath the surface of the water, on the four monitors. 
 
 ## Step 2 
-First use a `||Datasets: make dataset||` coding block, inside of a `||loops: on start||` coding block.
+First use a `||Datasets: make dataset||` coding block, inside of an `||loops: on start||` coding block.
 Set that block to be a `||Datasets: live||` dataset.
 
 ## Step 3
