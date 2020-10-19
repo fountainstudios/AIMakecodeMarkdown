@@ -11,11 +11,11 @@
 # Activity 2 – Underwater data.
 
 ## Step 1
-Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the different sensors.
-Once this is done we will be able to see what is going on beneath the surface of the water, on the four monitors. 
+Now that the sensors have been placed we need to make **one** live dataset that is going to hold all of the data from the **four** sensors.
+Once this is done we will be able to see, and map, what is going on beneath the surface of the water, on the four monitors. 
 
 ## Step 2 
-First use a `||Datasets: make dataset||` coding block, from the toolbox, inside of a `||loops: on start||` coding block.
+First use a `||Datasets: make dataset||` coding block, inside of a `||loops: on start||` coding block.
 Set that block to be a `||Datasets: live||` dataset.
 
 ## Step 3

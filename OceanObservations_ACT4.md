@@ -7,7 +7,7 @@
 
 ### @explicitHints true
 ### @flyoutOnly 0
-### @hideIteration true 
+### @hideIteration false 
 
 # Activity 3 – Testing it out.
 
@@ -28,7 +28,6 @@ Output.reach1_OO()
 Output.reach2_OO()
 Output.reach3_OO()
 Output.reach4_OO()
-Datasets.transferData()
 ```
 
 ```package
