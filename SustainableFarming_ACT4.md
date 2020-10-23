@@ -10,5 +10,5 @@ player.say
 
 ## Step 1
 Now that the AI has predicted the best locations to farm in, 
-navigate over to the plots and tell the farmer to plant there by pressing the button on the gold blocks.
+navigate over to the plots and tell the farmers to plant there by pressing the button on the gold blocks.
 **No coding is required for this Activity.**
