@@ -22,7 +22,7 @@ Input.beacon3_SF()
 Input.beacon4_SF()
 Input.beacon5_SF()
 Input.runSatelite_SF(datasetType.historical, function() {})
-Input.setOfData_SF(datasetType.historical, function() {})
+Datasets.setOfData_SF(datasetType.historical, function() {})
 ```
 
 ```package
