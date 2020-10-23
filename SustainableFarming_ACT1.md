@@ -1,4 +1,4 @@
-# Activity 1 – PLACEHOLDER.
+# Activity 1 – Whithering crops.
 
 ### @explicitHints true
 ### @hideIteration true 

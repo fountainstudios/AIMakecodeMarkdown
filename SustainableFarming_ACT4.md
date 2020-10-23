@@ -1,4 +1,4 @@
-# Activity 4 – -PLACEHOLDER-.
+# Activity 4 – Green thumb.
 
 ### @explicitHints true
 ### @hideIteration true 

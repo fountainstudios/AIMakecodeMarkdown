@@ -8,7 +8,7 @@
 ### @explicitHints true
 ### @flyoutOnly 0
 
-# Activity 2 – -PLACEHOLDER-
+# Activity 2 – Out of this world.
 
 ## Step 1
 Now that we have placed all of the satellite beacons we need to **run** the satellite and **code** a **current** dataset from the information that 

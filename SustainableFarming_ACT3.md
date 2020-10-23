@@ -8,7 +8,7 @@
 ### @explicitHints true
 ### @flyoutOnly 0
 
-# Activity 3 – Professional Tracker.
+# Activity 3 – Predictive analysis.
 
 ## Step 1
 We now need to code the AI that is going to find the best planting locations. 
