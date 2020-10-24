@@ -11,8 +11,8 @@
 # Activity 2 – Out of this world.
 
 ## Step 1
-Now that we have placed all of the satellite beacons we need to **run** the satellite and **code** a **current** dataset from the information that 
-it is sending.  
+Now that we have placed all of the satellite beacons we need to **control** the satellite and **code** a **current** dataset from the information that 
+it is sent back.  
 
 ## Step 2 
 First use a `||Input: control satelite||` coding block, inside of an `||loops: on start||` coding block. Inside of that place a `||Datasets: make dataset||`

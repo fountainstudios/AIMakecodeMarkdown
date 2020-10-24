@@ -13,7 +13,7 @@
 ## Step 1
 We now need to code the AI that is going to find the best planting locations. 
 You will need to use the **current** dataset that you compiled in the last Activity, 
-and **compare** it against the **historical** dataset that the satellite station already has.
+and **compare** it against a **historical** dataset that the satellite station already has.
 
 ## Step 2
 First use a `||AI: semi-supervised machine learning||` coding block and place a `||Datasets: input datasets||` coding block inside.
@@ -21,7 +21,7 @@ After that, place a `||Datasets: compare datasets||` coding block. Set to **curr
 
 ## Step 3
 Then place a `||AI: run predictive analysis||` coding block. Followed by a `||Output: find best farming locations||` coding block. 
-Now when you run the code you will see the the best farming locations.
+Now when you run the code the AI will find and light up the best farming locations.
 
 ```ghost
 Datasets.compare_SF()
