@@ -23,7 +23,11 @@
         "SustainableFarming_ACT1.md",
         "SustainableFarming_ACT2.md",
         "SustainableFarming_ACT3.md",
-        "SustainableFarming_ACT4.md"
+        "SustainableFarming_ACT4.md",
+        "WaterQuality_ACT1.md",
+        "WaterQuality_ACT2.md",
+        "WaterQuality_ACT3.md",
+        "WaterQuality_ACT4.md"
     ],
     "public": true,
     "targetVersions": {
