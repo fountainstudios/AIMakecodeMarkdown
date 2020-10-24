@@ -8,28 +8,21 @@
 ### @explicitHints true
 ### @flyoutOnly 0
 
-# Activity 2 – Out of this world.
+# Activity 2 – Strait from the tap.
 
 ## Step 1
-Now that we have placed all of the satellite beacons we need to **control** the satellite and **code** a **current** dataset from the information that 
-it is sent back.  
+Now that you have collected water samples from the surrounding rivers, place them into the **collection area** for processing.
+Then code a **historical** dataset with the water data from each of the locations.
 
 ## Step 2 
-First use a `||Input: control satelite||` coding block, inside of an `||loops: on start||` coding block. Inside of that place a `||Datasets: make dataset||`
-coding block, and set that block to be a `||Datasets: current||` dataset.
-
-## Step 2 
-Then place all of the `||Input: location satellite data||` inside. Now when run you will be able to see the satellite camera panning over the village 
-as its gathering data for the current dataset.
+Start by using a `||Datasets: make dataset||` coding block, set to `||Datasets: historical||`. Inside of that place all of the `||Input: water data||`
+from each of the locations, that was just processed. 
 
 ```ghost
-Input.beacon1_SF()
-Input.beacon2_SF()
-Input.beacon3_SF()
-Input.beacon4_SF()
-Input.beacon5_SF()
-Input.runSatelite_SF(function() {})
-Datasets.setOfData_SF(datasetType.historical, function() {})
+Input.waterData1_WQ()
+Input.waterData2_WQ()
+Input.waterData3_WQ()
+Datasets.setOfData_WQ(datasetType.historical, function() {})
 ```
 
 ```package

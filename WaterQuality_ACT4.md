@@ -1,4 +1,4 @@
-# Activity 4 – Green thumb.
+# Activity 4 – Cleaning up.
 
 ### @explicitHints true
 ### @hideIteration true 
@@ -9,6 +9,7 @@ player.say
 ```
 
 ## Step 1
-Now that the AI has predicted the best locations to farm, 
-go to the corrects plots and tell the farmers to plant there by pressing the button on the gold block.
+Now that the AI has located the sources where the pollution is coming from, we need to make sure that it is correct. If it is, we then need to stop 
+the pollution coming from a specific location. 
+Get into the boat to go to each of the locations and clean them up. 
 **No coding is required for this Activity.**
