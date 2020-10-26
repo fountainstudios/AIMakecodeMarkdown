@@ -11,7 +11,7 @@
 # Activity 2 – Strait from the tap.
 
 ## Step 1
-Now that you have collected water samples from the surrounding rivers, place them into the **collection area** for processing.
+Now that you have collected water samples from the surrounding rivers, place each one into one of the **collection areas** for processing.
 Then code a **historical** dataset with the water data from each of the locations.
 
 ## Step 2 
