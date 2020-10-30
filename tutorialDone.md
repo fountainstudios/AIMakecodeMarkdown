@@ -3,6 +3,8 @@
 ```python
 player.say
 ```
+
+# Congratulations!
 ## Introduction @unplugged
 Congratulations, you have finished the lesson!
 

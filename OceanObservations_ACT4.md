@@ -13,7 +13,7 @@
 
 ## Step 1
 We need to see if the generated routes that the AI compiled are correct. To do that, use an `||AI:autonomous navigation algorithm||`
-coding block, inside of an `||loops:on start||` coding block. Inside of that, specify (using the coding blocks in the `||Output: OUTPUT||` tab) 
+coding block inside of an `||loops:on start||` coding block. Inside of that, specify (using the coding blocks in the `||Output: OUTPUT||` tab) 
 which sensors the Agent should reach. The sensors that the Agent needs to reach are **2** and **4**. 
 
 ```ghost
